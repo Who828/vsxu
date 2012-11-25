@@ -98,6 +98,7 @@ endif ()
 
 add_subdirectory(src/sound.media_player)
 add_subdirectory(src/sound.pulseaudio)
+add_subdirectory(src/sound.rtaudio)
 
 add_subdirectory(src/string)
 add_subdirectory(src/system)
